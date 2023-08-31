@@ -43,15 +43,24 @@
 <picture>![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)</picture>
 <picture>![AdobeXD](https://img.shields.io/badge/Adobe_XD-black?style=for-the-badge&logo=Adobe%20XD)</picture>
 
+### Testing
+<picture>![JUnit](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=openjdk&logoColor=orange)</picture>
+<picture>![Jasmine](https://img.shields.io/badge/Jasmine-black?style=for-the-badge&logo=angular&logoColor=red)</picture>
+<picture>![Karma](https://img.shields.io/badge/Karma-black?style=for-the-badge&logo=angular&logoColor=red)</picture>
+<picture>![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest)</picture>
+<picture>![Selenium](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)</picture>
+<picture>![Robot Framework](https://img.shields.io/badge/Robot_Framework-black?style=for-the-badge&logo=Robot_Framework)</picture>
+
 ### Softwares and Tools
 <picture>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge&badgeColor=success)</picture>
+<picture>![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge&badgeColor=success)</picture>
+<picture>![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse&logoColor=purple)</picture>
+<picture>![Netbeans](https://img.shields.io/badge/Netbeans-black?style=for-the-badge&logo=apache%20netbeans%20IDE)</picture>
 <picture>![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)</picture>
 <picture>![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)</picture>
 <picture>![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)</picture>
 <picture>![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)</picture>
 <picture>![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=purple)</picture>
-<picture>![Selenium](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=selenium)</picture>
-<picture>![Robot Framework](https://img.shields.io/badge/Robot_Framework-black?style=for-the-badge&logo=Robot_Framework)</picture>
 
 ### Extras
 <picture>![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=gnu-bash)</picture>
@@ -94,5 +103,5 @@
   <picture><img src="https://komarev.com/ghpvc/?username=rubenalarcongalvez&color=blue" alt="watching_count" /></picture>
   <picture><img src="https://img.shields.io/badge/Focus-Web_and_Mobile_Development-purple" /></picture>
   <picture><img src="https://img.shields.io/badge/Lives-Málaga,_Spain-success" /></picture>
-  <picture><img src="https://img.shields.io/badge/Languages-Spanish,_English_and_communicate_in_French-orange" /></picture>
+  <picture><img src="https://img.shields.io/badge/Languages-Spanish,_English_and_bit_of_French-orange" /></picture>
 </p>
