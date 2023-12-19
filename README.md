@@ -4,7 +4,7 @@
 
 <p align="center">
   <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&lines=Coding+Enthusiast;Web+Developer;Angular+and+TypeScript+/+Spring+and+Java;Active+Learner+and+Researcher;Love+to+learn+new+stuff+^^;Soy+español,+y+un+gran+comunicador;Je+peux+parler+un+peu+de+français+aussi;Summary:+Passion+for+my+job!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&lines=Coding+Enthusiast;Web+Developer;Angular+&+TypeScript+/+Spring+&+Java;Active+Learner+and+Researcher;Love+to+learn+new+stuff+^^;Soy+español,+y+un+gran+comunicador;Je+peux+parler+un+peu+de+français+aussi;Summary:+Passion+for+my+job!">
   </picture>
 </p>
     
@@ -16,7 +16,7 @@
 - 🟢 Expertise in front-end, however, I also really like back-end.
 - 🔵 Responsive design.
 - ♾ Everyday learning Web Development by myself (apart of my studies).
-- 🎯 Next things to learn for me: React right now and Kotlin in a near future! (Hey and I will hatch an eye to Rust and AWS as well).
+- 🎯 Next things to learn for me: React right now and Kotlin in a near future!
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> **Stack**
 <picture>![Expertise Example](https://img.shields.io/badge/Expertise-black?style=for-the-badge)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
@@ -31,7 +31,7 @@
 <picture>![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)</picture><picture>![Basic Knowledge](https://img.shields.io/badge/🖐-black?style=for-the-badge)</picture>
 
 ### Frameworks
-<picture>![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular&logoColor=red)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
+<picture>![Angular 17](https://img.shields.io/badge/angular_17-black?style=for-the-badge&logo=angular&logoColor=red)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 <picture>![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 
 ### Design
@@ -40,6 +40,8 @@
 <picture>![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=css3&logoColor=purple)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 <picture>![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)</picture>
 <picture>![PrimeNG](https://img.shields.io/badge/primeng-black?style=for-the-badge&logo=bootstrap&logoColor=red)</picture>
+<picture>![Angular Material](https://img.shields.io/badge/angular_material-black?style=for-the-badge&logo=angular&logoColor=blue)</picture>
+<picture>![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind-css)</picture>
 <picture>![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)</picture>
 <picture>![AdobeXD](https://img.shields.io/badge/Adobe_XD-black?style=for-the-badge&logo=Adobe%20XD)</picture>
 
