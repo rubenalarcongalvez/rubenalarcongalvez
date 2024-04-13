@@ -11,7 +11,7 @@
 ![Background image](https://i.imgur.com/sPuKDQL.png)
 
 ## <picture><img src = "https://i.imgur.com/1fzGvY1.gif" width = 50px></picture> **About me**
-- 👩‍💻 Junior Web Developer. Angular with TypeScript and Spring with Java as main technologies.
+- 👩‍💻 Web Developer. Angular with TypeScript and Spring with Java as main technologies.
 - ❤ Passion for my job.
 - 🟢 Expertise in front-end, however, I also really like back-end.
 - 🔵 Responsive design.
