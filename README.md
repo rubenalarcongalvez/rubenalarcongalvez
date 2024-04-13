@@ -16,7 +16,7 @@
 - 🟢 Expertise in front-end, however, I also really like back-end.
 - 🔵 Responsive design.
 - ♾ Everyday learning Web Development by myself (apart of my studies).
-- 🎯 Next things to learn for me: React, Micro Services and PL/SQL and Rust!
+- 🎯 Next things to learn for me: React, Micro Services, PL/SQL and Rust!
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> **Stack**
 <picture>![Expertise Example](https://img.shields.io/badge/Expertise-black?style=for-the-badge)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
