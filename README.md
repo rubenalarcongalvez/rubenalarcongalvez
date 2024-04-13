@@ -44,6 +44,7 @@
 <picture>![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind-css)</picture>
 <picture>![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)</picture>
 <picture>![AdobeXD](https://img.shields.io/badge/Adobe_XD-black?style=for-the-badge&logo=Adobe%20XD)</picture>
+<picture>![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)</picture>
 
 ### Testing
 <picture>![JUnit](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=openjdk&logoColor=orange)</picture>
@@ -68,6 +69,7 @@
 <picture>![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=gnu-bash)</picture>
 <picture>![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)</picture>
 <picture>![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira&logoColor=blue)</picture>
+<picture>![Clickup](https://img.shields.io/badge/Clickup-black?style=for-the-badge&logo=clickup)</picture>
 <picture>![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello&logoColor=blue)</picture>
 <picture>![Asana](https://img.shields.io/badge/Asana-black?style=for-the-badge&logo=asana)</picture>
 <picture>![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)</picture>
@@ -103,7 +105,7 @@
 
 <p align="center">
   <picture><img src="https://komarev.com/ghpvc/?username=rubenalarcongalvez&color=blue" alt="watching_count" /></picture>
-  <picture><img src="https://img.shields.io/badge/Focus-Web_and_Mobile_Development-purple" /></picture>
+  <picture><img src="https://img.shields.io/badge/Focus-Web_Development-purple" /></picture>
   <picture><img src="https://img.shields.io/badge/Lives-Málaga,_Spain-success" /></picture>
   <picture><img src="https://img.shields.io/badge/Languages-Spanish,_English_and_bit_of_French-orange" /></picture>
 </p>
