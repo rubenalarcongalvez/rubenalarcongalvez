@@ -45,6 +45,10 @@
 <picture>![AdobeXD](https://img.shields.io/badge/Adobe_XD-black?style=for-the-badge&logo=Adobe%20XD)</picture>
 <picture>![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)</picture>
 
+### APIs
+<picture>![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge)</picture>
+<picture>![Chromium extensions](https://img.shields.io/badge/Chromium_extensions-black?style=for-the-badge)</picture><picture>![Chromium extensions](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
+
 ### Testing
 <picture>![JUnit](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=openjdk&logoColor=orange)</picture>
 <picture>![Jasmine](https://img.shields.io/badge/Jasmine-black?style=for-the-badge&logo=angular&logoColor=red)</picture>
