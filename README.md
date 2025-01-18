@@ -15,7 +15,7 @@
 - ❤ Passion for my job.
 - 🟢 Expertise in front-end, however, I also really like back-end.
 - 🔵 Responsive design.
-- ♾ Everyday learning Web Development by myself (apart of my studies).
+- ♾ Everyday learning Web Development by myself (apart of my job).
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> **Stack**
 <picture>![Favorite Example](https://img.shields.io/badge/Favorite-black?style=for-the-badge)</picture><picture>![Favorite](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
@@ -37,17 +37,17 @@
 <picture>![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 <picture>![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 <picture>![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=css3&logoColor=purple)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
+<picture>![PrimeNG](https://img.shields.io/badge/primeng-black?style=for-the-badge&logo=bootstrap&logoColor=red)</picture><picture>![Favorite](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
+<picture>![Angular Material](https://img.shields.io/badge/angular_material-black?style=for-the-badge&logo=angular&logoColor=blue)</picture><picture>![Favorite](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
+<picture>![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind-css)</picture><picture>![Favorite](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 <picture>![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)</picture>
-<picture>![PrimeNG](https://img.shields.io/badge/primeng-black?style=for-the-badge&logo=bootstrap&logoColor=red)</picture>
-<picture>![Angular Material](https://img.shields.io/badge/angular_material-black?style=for-the-badge&logo=angular&logoColor=blue)</picture>
-<picture>![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwind-css)</picture>
 <picture>![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)</picture>
 <picture>![AdobeXD](https://img.shields.io/badge/Adobe_XD-black?style=for-the-badge&logo=Adobe%20XD)</picture>
 <picture>![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)</picture>
 
 ### APIs
-<picture>![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge)</picture>
 <picture>![Chromium extensions](https://img.shields.io/badge/Chromium_extensions-black?style=for-the-badge)</picture><picture>![Chromium extensions](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
+<picture>![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge)</picture>
 
 ### Testing
 <picture>![JUnit](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=openjdk&logoColor=orange)</picture>
@@ -69,13 +69,13 @@
 <picture>![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=purple)</picture>
 
 ### Extras
+<picture>![Clickup](https://img.shields.io/badge/Clickup-black?style=for-the-badge&logo=clickup)</picture><picture>![Favorite](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
+<picture>![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)</picture><picture>![Favorite](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 <picture>![Terminal](https://img.shields.io/badge/Terminal-black?style=for-the-badge&logo=gnu-bash)</picture>
 <picture>![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)</picture>
 <picture>![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira&logoColor=blue)</picture>
-<picture>![Clickup](https://img.shields.io/badge/Clickup-black?style=for-the-badge&logo=clickup)</picture>
 <picture>![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello&logoColor=blue)</picture>
 <picture>![Asana](https://img.shields.io/badge/Asana-black?style=for-the-badge&logo=asana)</picture>
-<picture>![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)</picture>
 <picture>![Teams](https://img.shields.io/badge/Teams-black?style=for-the-badge&logo=microsoft-teams)</picture>
 <picture>![Slack](https://img.shields.io/badge/Slack-black?style=for-the-badge&logo=slack)</picture>
 
