@@ -18,7 +18,7 @@
 - ♾ Everyday learning Web Development by myself (apart of my studies).
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> **Stack**
-<picture>![Expertise Example](https://img.shields.io/badge/Expertise-black?style=for-the-badge)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
+<picture>![Favorite Example](https://img.shields.io/badge/Favorite-black?style=for-the-badge)</picture><picture>![Favorite](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 <picture>![Good Knowledge](https://img.shields.io/badge/Good_Knowledge-black?style=for-the-badge)</picture>
 <picture>![Basic Knowledge](https://img.shields.io/badge/Basic_Knowledge-black?style=for-the-badge)</picture><picture>![Basic Knowledge](https://img.shields.io/badge/🖐-black?style=for-the-badge)</picture>
 ### Languages
