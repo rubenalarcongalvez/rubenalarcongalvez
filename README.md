@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/badge/Rubén_Alarcón_Gálvez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
   <a href="mailto:rubenalarcongalvez@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/rubenalarcongalvez@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;"  />
+    <img src="https://img.shields.io/badge/rubenalarcongalvez@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;"  />
   </a>
 </div>
 
@@ -113,4 +113,10 @@
   <picture><img src="https://img.shields.io/badge/Focus-Web_Development-purple" /></picture>
   <picture><img src="https://img.shields.io/badge/Lives-Málaga,_Spain-success" /></picture>
   <picture><img src="https://img.shields.io/badge/Languages-Spanish,_English_and_bit_of_French-orange" /></picture>
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/S6S619M4ED">
+    <img src="https://img.shields.io/badge/Feel_free_to_Donate_on-KoFi-%23EA4335.svg?style=for-the-badge&logo=ko-fi" style="margin-bottom: 5px;"  />
+  </a>
 </p>
