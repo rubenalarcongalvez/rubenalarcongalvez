@@ -30,7 +30,7 @@
 <picture>![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)</picture><picture>![Basic Knowledge](https://img.shields.io/badge/🖐-black?style=for-the-badge)</picture>
 
 ### Frameworks
-<picture>![Angular 17](https://img.shields.io/badge/angular_17-black?style=for-the-badge&logo=angular&logoColor=red)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
+<picture>![Angular 20](https://img.shields.io/badge/angular_17-black?style=for-the-badge&logo=angular&logoColor=red)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 <picture>![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)</picture><picture>![Expertise](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 
 ### Design
