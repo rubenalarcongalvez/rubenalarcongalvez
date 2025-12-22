@@ -48,6 +48,7 @@
 ### APIs
 <picture>![Chromium extensions](https://img.shields.io/badge/Chromium_extensions-black?style=for-the-badge)</picture><picture>![Chromium extensions](https://img.shields.io/badge/💚-black?style=for-the-badge)</picture>
 <picture>![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge)</picture>
+<picture>![Stripe](https://img.shields.io/badge/Stripe-black?style=for-the-badge)</picture>
 
 ### Testing
 <picture>![JUnit](https://img.shields.io/badge/JUnit-black?style=for-the-badge&logo=openjdk&logoColor=orange)</picture>
